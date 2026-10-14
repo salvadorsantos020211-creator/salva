@@ -4,18 +4,18 @@ int main(void)
 {
 	setlocale(LC_ALL, "");
 	float nota;
-	printf("diz aí um número");
+	printf("diz aÃ­ um nÃºmero");
 	scanf_s("%f", &nota);
-	if (nota <= 9.5)
+	if (nota >= 9.5)
 	{
-		printf("voçê é burro");
+		printf("voÃ§Ãª Ã© burro");
 	}
 	else
 	{
 		float nota;
 		scanf_s("%f", &nota);
-			if (nota >= 9.5)
-				printf("voçê é inteligente");
+			if (nota <= 9.5)
+				printf("voÃ§Ãª Ã© inteligente");
 	}
 
 	return 0;
