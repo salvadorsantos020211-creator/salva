@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	int quantidade, soma, parcela;
+	int quantidade;
 	float parcela, soma;
 	
 	do
