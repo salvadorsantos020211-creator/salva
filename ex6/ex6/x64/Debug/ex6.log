@@ -1,0 +1,6 @@
+﻿  ex6.c
+C:\Users\Aluno\Desktop\Salvador\ex6\ex6.c(13,32): warning C4474: 'printf': excesso de argumentos transmitidos para cadeia de caracteres de formato
+      C:\Users\Aluno\Desktop\Salvador\ex6\ex6.c(13,32):
+      espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+  ex6.vcxproj -> C:\Users\Aluno\Desktop\Salvador\ex6\x64\Debug\ex6.exe
