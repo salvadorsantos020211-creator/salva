@@ -5,7 +5,7 @@ int main(void)
     setlocale(LC_ALL, "");
     int numero, n;
 
-    printf("Diz um numro ");
+    printf("Diz um numero ");
     scanf_s("%d", &numero);
     printf("Tabuada do %d:\n", numero);
     
